@@ -32,6 +32,6 @@ fichi:
     ovked_to_fichi - парсер данных о компании по ОГРН
     parse_contscts - парсер контактных данных поставщика по ИНН
 
-rltfront
+rltfront:
 
     фронтенд
