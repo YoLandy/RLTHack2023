@@ -1,0 +1,40 @@
+export const theme = {
+	color: {
+		white: '#ffffff',
+		light100: '#f2f2f2',
+		light200: '#dddddd',
+		light300: '#cdcdcd',
+		dark400: '#575757',
+		dark600: '#070707',
+		dark800: '#000000',
+		accent: '#9304f2',
+	},
+	borderRadius: {
+		xs: 6,
+		sm: 12,
+		md: 16,
+		lg: 32,
+	},
+	borderWidth: {
+		sm: 1,
+		md: 3,
+		lg: 5,
+	},
+	values: {
+		xs: 8,
+		xsp: 12,
+		sm: 15,
+		md: 30,
+		lg: 45,
+		mg: 60,
+	},
+	fontSizes: {
+		h1: 44,
+		h2: 34,
+		h3: 28,
+		h4: 22,
+		h5: 18,
+		h6: 16,
+		xs: 13,
+	},
+};
